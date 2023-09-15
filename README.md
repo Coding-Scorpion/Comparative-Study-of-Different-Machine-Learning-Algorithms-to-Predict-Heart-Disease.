@@ -1,3 +1,3 @@
 # Heart-Disease-Prediction-Using-Machine-Learning-Algorithms
-**Comparative Study of Different Machine Learning Algorithms to Predict Heart Disease.**
+**Comparative Study of Different Machine Learning Algorithms to Predict Heart Disease.**<br>
 A “Disease Prediction” system based on predictive modeling predicts the disease of the user on the basis of the symptoms that the user provides as input to the system. The system analyzes the signs provided by the user as input and gives the probability of the disease as an output. Disease Prediction is done by implementing 5 techniques: Naïve Bayes, KNN, Decision Tree, Linear Regression, and Random Forest Algorithms. These techniques calculate the probability of the disease. Therefore, an average prediction accuracy probability of 83% is obtained
